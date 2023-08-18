@@ -1,1 +1,1 @@
-select top 10 from something
+select top 10 from something_else;
